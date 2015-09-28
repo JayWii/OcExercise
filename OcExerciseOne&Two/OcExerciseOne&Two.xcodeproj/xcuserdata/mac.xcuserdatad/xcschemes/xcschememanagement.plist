@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>OcExerciseOne.xcscheme</key>
+		<key>OcExerciseOne&amp;Two.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>04903FB31BB5A14900AAADF5</key>
+		<key>04E82CAA1BB94A38004DD601</key>
 		<dict>
 			<key>primary</key>
 			<true/>
