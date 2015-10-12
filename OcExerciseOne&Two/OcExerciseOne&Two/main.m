@@ -50,6 +50,35 @@ int main(int argc, const char * argv[]) {
         [com2 release];
         [comResult release];
         
+        //作业4.3
+        Fraction *fraction  = [[Fraction alloc]init];
+        Complex  *complex  = [[Complex alloc]init];
+        id number = [[Complex alloc]init];
+        BOOL test;
+        test = [fraction isMemberOfClass:[Complex class]];
+        NSLog(@"表达式[fraction isMemberOfClass:[Complex class]]的返回值为：%hhd",test);
+        test = [complex isKindOfClass:[NSObject class]];
+        NSLog(@"表达式[complex isKindOfClass:[NSObject class]]的返回值为：%hhd",test);
+        test = [complex isKindOfClass:[NSObject class]];
+        NSLog(@"表达式[complex isKindOfClass:[NSObject class]]的返回值为：%hhd",test);
+        test = [fraction isKindOfClass:[Fraction class]];
+        NSLog(@"表达式[fraction isKindOfClass:[Fraction class]]的返回值为：%hhd",test);
+        test = [fraction respondsToSelector:@selector(print)];
+        NSLog(@"表达式[fraction respondsToSelector:@selector(print)]的返回值为：%hhd",test);
+        test = [complex respondsToSelector:@selector(print)];
+        NSLog(@"表达式[complex respondsToSelector:@selector(print)]的返回值为：%hhd",test);
+        test = [Fraction instancesRespondToSelector:@selector(print)];
+        NSLog(@"表达式[Fraction instancesRespondToSelector:@selector(print)]的返回值为：%hhd",test);
+        test = [number respondsToSelector:@selector(print)];
+        NSLog(@"表达式[number respondsToSelector:@selector(print)]的返回值为：%hhd",test);
+        test = [number isKindOfClass:[Complex class]];
+        NSLog(@"表达式[number isKindOfClass:[Complex class]]的返回值为：%hhd",test);
+        test = [number respondsToSelector:@selector(release)];
+        NSLog(@"表达式[number respondsToSelector:@selector(release)]的返回值为：%hhd",test);
+        [fraction release];
+        [complex release];
+        [number release];
+        
     }
     return 0;
 }

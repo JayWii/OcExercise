@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0630"
+   LastUpgradeVersion = "0500"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-               BuildableName = "OcExerciseOne&amp;Two"
-               BlueprintName = "OcExerciseOne&amp;Two"
-               ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+               BlueprintIdentifier = "043DD6061BCAD09000473A26"
+               BuildableName = "OcExerciseThree&amp;Four"
+               BlueprintName = "OcExerciseThree&amp;Four"
+               ReferencedContainer = "container:OcExerciseThree&amp;Four.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-            BuildableName = "OcExerciseOne&amp;Two"
-            BlueprintName = "OcExerciseOne&amp;Two"
-            ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+            BlueprintIdentifier = "043DD6061BCAD09000473A26"
+            BuildableName = "OcExerciseThree&amp;Four"
+            BlueprintName = "OcExerciseThree&amp;Four"
+            ReferencedContainer = "container:OcExerciseThree&amp;Four.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -48,14 +48,13 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-            BuildableName = "OcExerciseOne&amp;Two"
-            BlueprintName = "OcExerciseOne&amp;Two"
-            ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+            BlueprintIdentifier = "043DD6061BCAD09000473A26"
+            BuildableName = "OcExerciseThree&amp;Four"
+            BlueprintName = "OcExerciseThree&amp;Four"
+            ReferencedContainer = "container:OcExerciseThree&amp;Four.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -67,14 +66,13 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-            BuildableName = "OcExerciseOne&amp;Two"
-            BlueprintName = "OcExerciseOne&amp;Two"
-            ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+            BlueprintIdentifier = "043DD6061BCAD09000473A26"
+            BuildableName = "OcExerciseThree&amp;Four"
+            BlueprintName = "OcExerciseThree&amp;Four"
+            ReferencedContainer = "container:OcExerciseThree&amp;Four.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
