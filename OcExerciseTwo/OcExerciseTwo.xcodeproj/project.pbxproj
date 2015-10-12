@@ -7,13 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04E82CAF1BB94A38004DD601 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E82CAE1BB94A38004DD601 /* main.m */; };
-		04E82CB71BB94A99004DD601 /* Fraction.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E82CB61BB94A99004DD601 /* Fraction.m */; };
-		04E82CBA1BB94AC4004DD601 /* Complex.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E82CB91BB94AC4004DD601 /* Complex.m */; };
+		04903FD41BB68F6700AAADF5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04903FD31BB68F6700AAADF5 /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		04E82CA91BB94A38004DD601 /* CopyFiles */ = {
+		04903FCE1BB68F6700AAADF5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -25,16 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		04E82CAB1BB94A38004DD601 /* OcExerciseOne&Two */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "OcExerciseOne&Two"; sourceTree = BUILT_PRODUCTS_DIR; };
-		04E82CAE1BB94A38004DD601 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		04E82CB51BB94A99004DD601 /* Fraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fraction.h; sourceTree = "<group>"; };
-		04E82CB61BB94A99004DD601 /* Fraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fraction.m; sourceTree = "<group>"; };
-		04E82CB81BB94AC4004DD601 /* Complex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Complex.h; sourceTree = "<group>"; };
-		04E82CB91BB94AC4004DD601 /* Complex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Complex.m; sourceTree = "<group>"; };
+		04903FD01BB68F6700AAADF5 /* OcExerciseTwo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OcExerciseTwo; sourceTree = BUILT_PRODUCTS_DIR; };
+		04903FD31BB68F6700AAADF5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		04E82CA81BB94A38004DD601 /* Frameworks */ = {
+		04903FCD1BB68F6700AAADF5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -44,100 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		04E82CA21BB94A38004DD601 = {
+		04903FC71BB68F6700AAADF5 = {
 			isa = PBXGroup;
 			children = (
-				04E82CAD1BB94A38004DD601 /* OcExerciseOne&Two */,
-				04E82CAC1BB94A38004DD601 /* Products */,
+				04903FD21BB68F6700AAADF5 /* OcExerciseTwo */,
+				04903FD11BB68F6700AAADF5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		04E82CAC1BB94A38004DD601 /* Products */ = {
+		04903FD11BB68F6700AAADF5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04E82CAB1BB94A38004DD601 /* OcExerciseOne&Two */,
+				04903FD01BB68F6700AAADF5 /* OcExerciseTwo */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		04E82CAD1BB94A38004DD601 /* OcExerciseOne&Two */ = {
+		04903FD21BB68F6700AAADF5 /* OcExerciseTwo */ = {
 			isa = PBXGroup;
 			children = (
-				04E82CAE1BB94A38004DD601 /* main.m */,
-				04E82CB51BB94A99004DD601 /* Fraction.h */,
-				04E82CB61BB94A99004DD601 /* Fraction.m */,
-				04E82CB81BB94AC4004DD601 /* Complex.h */,
-				04E82CB91BB94AC4004DD601 /* Complex.m */,
+				04903FD31BB68F6700AAADF5 /* main.m */,
 			);
-			path = "OcExerciseOne&Two";
+			path = OcExerciseTwo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04E82CAA1BB94A38004DD601 /* OcExerciseOne&Two */ = {
+		04903FCF1BB68F6700AAADF5 /* OcExerciseTwo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04E82CB21BB94A38004DD601 /* Build configuration list for PBXNativeTarget "OcExerciseOne&Two" */;
+			buildConfigurationList = 04903FD71BB68F6700AAADF5 /* Build configuration list for PBXNativeTarget "OcExerciseTwo" */;
 			buildPhases = (
-				04E82CA71BB94A38004DD601 /* Sources */,
-				04E82CA81BB94A38004DD601 /* Frameworks */,
-				04E82CA91BB94A38004DD601 /* CopyFiles */,
+				04903FCC1BB68F6700AAADF5 /* Sources */,
+				04903FCD1BB68F6700AAADF5 /* Frameworks */,
+				04903FCE1BB68F6700AAADF5 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "OcExerciseOne&Two";
-			productName = "OcExerciseOne&Two";
-			productReference = 04E82CAB1BB94A38004DD601 /* OcExerciseOne&Two */;
+			name = OcExerciseTwo;
+			productName = OcExerciseTwo;
+			productReference = 04903FD01BB68F6700AAADF5 /* OcExerciseTwo */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		04E82CA31BB94A38004DD601 /* Project object */ = {
+		04903FC81BB68F6700AAADF5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = Jason_NJUPT;
 				TargetAttributes = {
-					04E82CAA1BB94A38004DD601 = {
+					04903FCF1BB68F6700AAADF5 = {
 						CreatedOnToolsVersion = 6.3;
 					};
 				};
 			};
-			buildConfigurationList = 04E82CA61BB94A38004DD601 /* Build configuration list for PBXProject "OcExerciseOne&Two" */;
+			buildConfigurationList = 04903FCB1BB68F6700AAADF5 /* Build configuration list for PBXProject "OcExerciseTwo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 04E82CA21BB94A38004DD601;
-			productRefGroup = 04E82CAC1BB94A38004DD601 /* Products */;
+			mainGroup = 04903FC71BB68F6700AAADF5;
+			productRefGroup = 04903FD11BB68F6700AAADF5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04E82CAA1BB94A38004DD601 /* OcExerciseOne&Two */,
+				04903FCF1BB68F6700AAADF5 /* OcExerciseTwo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		04E82CA71BB94A38004DD601 /* Sources */ = {
+		04903FCC1BB68F6700AAADF5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04E82CAF1BB94A38004DD601 /* main.m in Sources */,
-				04E82CBA1BB94AC4004DD601 /* Complex.m in Sources */,
-				04E82CB71BB94A99004DD601 /* Fraction.m in Sources */,
+				04903FD41BB68F6700AAADF5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		04E82CB01BB94A38004DD601 /* Debug */ = {
+		04903FD51BB68F6700AAADF5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -172,14 +160,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = macosx10.8;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
-		04E82CB11BB94A38004DD601 /* Release */ = {
+		04903FD61BB68F6700AAADF5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,24 +196,22 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				SDKROOT = macosx10.8;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
-		04E82CB31BB94A38004DD601 /* Debug */ = {
+		04903FD81BB68F6700AAADF5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_ENABLE_OBJC_ARC = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		04E82CB41BB94A38004DD601 /* Release */ = {
+		04903FD91BB68F6700AAADF5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_ENABLE_OBJC_ARC = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -233,25 +219,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04E82CA61BB94A38004DD601 /* Build configuration list for PBXProject "OcExerciseOne&Two" */ = {
+		04903FCB1BB68F6700AAADF5 /* Build configuration list for PBXProject "OcExerciseTwo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04E82CB01BB94A38004DD601 /* Debug */,
-				04E82CB11BB94A38004DD601 /* Release */,
+				04903FD51BB68F6700AAADF5 /* Debug */,
+				04903FD61BB68F6700AAADF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04E82CB21BB94A38004DD601 /* Build configuration list for PBXNativeTarget "OcExerciseOne&Two" */ = {
+		04903FD71BB68F6700AAADF5 /* Build configuration list for PBXNativeTarget "OcExerciseTwo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04E82CB31BB94A38004DD601 /* Debug */,
-				04E82CB41BB94A38004DD601 /* Release */,
+				04903FD81BB68F6700AAADF5 /* Debug */,
+				04903FD91BB68F6700AAADF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 04E82CA31BB94A38004DD601 /* Project object */;
+	rootObject = 04903FC81BB68F6700AAADF5 /* Project object */;
 }

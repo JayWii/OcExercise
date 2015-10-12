@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-               BuildableName = "OcExerciseOne&amp;Two"
-               BlueprintName = "OcExerciseOne&amp;Two"
-               ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+               BlueprintIdentifier = "04903FCF1BB68F6700AAADF5"
+               BuildableName = "OcExerciseTwo"
+               BlueprintName = "OcExerciseTwo"
+               ReferencedContainer = "container:OcExerciseTwo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-            BuildableName = "OcExerciseOne&amp;Two"
-            BlueprintName = "OcExerciseOne&amp;Two"
-            ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+            BlueprintIdentifier = "04903FCF1BB68F6700AAADF5"
+            BuildableName = "OcExerciseTwo"
+            BlueprintName = "OcExerciseTwo"
+            ReferencedContainer = "container:OcExerciseTwo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-            BuildableName = "OcExerciseOne&amp;Two"
-            BlueprintName = "OcExerciseOne&amp;Two"
-            ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+            BlueprintIdentifier = "04903FCF1BB68F6700AAADF5"
+            BuildableName = "OcExerciseTwo"
+            BlueprintName = "OcExerciseTwo"
+            ReferencedContainer = "container:OcExerciseTwo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E82CAA1BB94A38004DD601"
-            BuildableName = "OcExerciseOne&amp;Two"
-            BlueprintName = "OcExerciseOne&amp;Two"
-            ReferencedContainer = "container:OcExerciseOne&amp;Two.xcodeproj">
+            BlueprintIdentifier = "04903FCF1BB68F6700AAADF5"
+            BuildableName = "OcExerciseTwo"
+            BlueprintName = "OcExerciseTwo"
+            ReferencedContainer = "container:OcExerciseTwo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
